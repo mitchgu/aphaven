@@ -1,0 +1,19 @@
+#squarelogo {
+  float: right;
+  padding: 10px;
+  }
+
+section h3 {
+  margin: 20px 0 0 0;
+  }
+
+#index-nav {
+  clear: both;
+  padding: 10px;
+  border: 1px solid #39C;
+  }
+
+#main-content p {
+  font-size: 16px;
+  padding: 10px;
+  }

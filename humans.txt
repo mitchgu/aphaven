@@ -1,0 +1,14 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Lead (and only) Developer: Mitchell Gu
+  Site: mx.mitchell.gu@gmail.com
+  Twitter: minxalide
+  Location: Lino Lakes, Minnesota
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, jQuery UI
+  Software: Notepad++, Chrome Web Developer Tools, git
